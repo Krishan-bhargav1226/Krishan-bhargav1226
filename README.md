@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Krishan Bhargav
 
-<!--
-**Krishan-bhargav1226/Krishan-bhargav1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building ASP.NET Core backends and React/TypeScript web products.
 
-Here are some ideas to get you started:
+## Focus
+- Backend: C#, ASP.NET Core, Entity Framework Core, SQL Server
+- Frontend: React, TypeScript, Vite, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+- [RestaurantApp](https://github.com/Krishan-bhargav1226/RestaurantApp) - Restaurant and venue operations API
+- [Hotel Admin Dashboard](https://github.com/Krishan-bhargav1226/hotel-admin-dashboard) - Multi-role hotel operations dashboard
+- [Sanjeevani Physio](https://github.com/Krishan-bhargav1226/sanjeevani-physio) - Clinic website and appointment journey
+- [IPOSaar](https://github.com/Krishan-bhargav1226/iposaar) - IPO tracking and application interface
+- [Teddy](https://github.com/Krishan-bhargav1226/teddy) - Teddy-bear gift storefront
+- [Nature Spiritual](https://github.com/Krishan-bhargav1226/nature-spiritual) - Hindi wellness-center website
+
+[LinkedIn](https://www.linkedin.com/in/krishan-bhargav/)
